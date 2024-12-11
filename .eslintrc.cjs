@@ -15,7 +15,6 @@ module.exports = {
     'airbnb-base',
     'plugin:prettier/recommended',
     'plugin:tailwindcss/recommended',
-    '@vue/eslint-config-prettier/skip-formatting',
   ],
   parserOptions: {
     ecmaVersion: 'latest',
